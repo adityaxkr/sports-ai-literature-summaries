@@ -1,0 +1,11 @@
+https://arxiv.org/pdf/2306.07515
+https://arxiv.org/pdf/2104.00234
+https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_FineSports_A_Multi-person_Hierarchical_Sports_Video_Dataset_for_Fine-grained_Action_CVPR_2024_paper.pdf
+https://arxiv.org/pdf/1403.6173v1
+https://paperswithcode.com/dataset/goal
+https://arxiv.org/pdf/2206.01038
+https://arxiv.org/pdf/2504.08384v1
+https://arxiv.org/pdf/2208.08190v1
+https://arxiv.org/pdf/2307.03353v1
+https://arxiv.org/pdf/2208.04897v1
+https://dl.acm.org/doi/abs/10.1145/3581783.3612496
